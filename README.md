@@ -1,3 +1,6 @@
+# TicTacToe ReactJS Tutorial
+This repo houses work done following the [ReactJS TicTacToe Tutorial](https://reactjs.org/tutorial/tutorial.html)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
